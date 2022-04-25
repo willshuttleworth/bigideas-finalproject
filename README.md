@@ -7,7 +7,7 @@
  * Will Shuttleworth (wps20@pitt.edu)
  * Alex Glebavicius (alg265@pitt.edu)
  * Nicolas Zeuss (NBZ2@pitt.edu)
- 
+ ** Final Project Group 2 
 ### Dataset Links
 
 * [playgrounds](https://data.wprdc.org/dataset/playgrounds)
